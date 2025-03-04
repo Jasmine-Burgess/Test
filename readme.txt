@@ -1,3 +1,3 @@
 Some text here
 
-Adding a new line
+Changing a new line
